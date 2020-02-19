@@ -1,0 +1,19 @@
+{
+  "name": "halo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019Genap-PBKK-F/tugas2-justfachry.git"
+  },
+  "author": "Fachry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2019Genap-PBKK-F/tugas2-justfachry/issues"
+  },
+  "homepage": "https://github.com/2019Genap-PBKK-F/tugas2-justfachry#readme"
+}
